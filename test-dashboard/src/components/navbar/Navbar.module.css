@@ -1,0 +1,8 @@
+li:hover,
+a:hover {
+  color: aqua;
+}
+
+.active {
+  color: aqua;
+}
